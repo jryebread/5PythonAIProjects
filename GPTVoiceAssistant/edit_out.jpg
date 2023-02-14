@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>InvalidArgument</Code><Message>Unsupported Authorization Type</Message><ArgumentName>Authorization</ArgumentName><ArgumentValue>Bearer 893917cd-ce1e-4d5d-b180-7a485a62cc90</ArgumentValue><RequestId>YRRS6BQ01WDQKZ2H</RequestId><HostId>+HTGXaWxW+ikYCFrHfk+0MAdyF/OiqMUuaaUpPyiSht3Z3ykY7W3fDy7RRr8ceeVBOysWL7VHds=</HostId></Error>
